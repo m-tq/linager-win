@@ -1,12 +1,12 @@
-# linager-lin
-Linode accounts manager via Telegram BOT linux version.
+# linager-win
+Linode accounts manager via Telegram BOT windows version.
 
 ```
 apt install git -y
 ```
 
 ```
-git clone https://github.com/m-tq/linager-lin.git
+git clone https://github.com/m-tq/linager-win.git
 ```
 
 ```
